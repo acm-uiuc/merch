@@ -5,8 +5,8 @@
 	<default remote="origin" revision="master" />
   
 	<project path="." name="merch" />
-	<project path="groot-gigs-service" name="merch-embedded" />
-	<project path="groot-voz" name="merch-hardware" />
-	<project path="groot-desktop-frontend" name="merch-ios" />
+	<project path="merch-embedded" name="merch-embedded" />
+	<project path="merch-hardware" name="merch-hardware" />
+	<project path="merch-ios" name="merch-ios" />
 
 </manifest>
