@@ -3,6 +3,17 @@ Root repo for merch
 
 [![Join the chat at https://acm-uiuc.slack.com/messages/C6XD34KTM](https://img.shields.io/badge/slack-merch-724D71.svg)](https://acm-uiuc.slack.com/messages/C6XD34KTM)
 
+## Overview 
+
+[merch-hardware](https://github.com/acm-uiuc/merch-hardware)
+
+[merch-embedded](https://github.com/acm-uiuc/merch-embedded)
+
+[merch-ios](https://github.com/acm-uiuc/merch-ios)
+
+[groot-merch-service](https://github.com/acm-uiuc/groot-merch-service)
+
+
 ## Getting Started
 
 Make sure you have Python and pip installed before starting 
