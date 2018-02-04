@@ -48,3 +48,4 @@ There are a couple components of the Merch. To get all of them we use a tool cal
     ```sh    
     repo sync
     ```
+https://www.google.com/patents/US8534494?dq=sensor+vending+machines&hl=en&sa=X&ved=0ahUKEwit3rDMyYvZAhUJqlkKHSVIDmQ4MhDoAQgtMAE
